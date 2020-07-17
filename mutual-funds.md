@@ -29,3 +29,11 @@
 	- Mutual fund shares are “redeemable,” meaning investors can sell the shares back to the fund at any time.
 7. Value added
 	- Mutual fund cost calculator
+
+8. Meezan funds
+	- Meezan Islamic incom fund (MIIF)
+	- Meezan islamic fund (MIF)
+	- KSE Meezan index tracker fund (KMIF)
+	- Meezan Energy fund (MEF)
+	- Meezan Rozana Amdani fund (MRAF)
+	- Meezan Sovereign fund (MSF)
